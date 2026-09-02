@@ -1,0 +1,6 @@
+{
+  "name": "Aneja Skin & Hair Centre",
+  "description": "Premium dermatology, trichology, and aesthetic clinic in Jalandhar led by Dr. P.S. Aneja and Dr. Simran Pal Aneja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
